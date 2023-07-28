@@ -1,0 +1,1 @@
+const offerLink = "https://securecd-smrtnd.com/smartlink/?a=159961&sm=18528&co=209017&mt=28&s1=Sam_yt"
